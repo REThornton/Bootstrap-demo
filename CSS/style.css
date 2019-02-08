@@ -1,0 +1,18 @@
+.container {
+  border: 5px solid red;
+}
+.row {
+  border: 5px solid blue;
+}
+.col-lg-2 {
+  border: 5px solid green;
+}
+.col-lg-5 {
+  border: 5px solid green;
+}
+.col-lg-4 {
+  border: 5px solid green;
+}
+.col-lg-1 {
+  border: 5px solid green;
+}
