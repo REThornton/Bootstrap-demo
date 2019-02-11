@@ -1,6 +1,7 @@
 .container-fluid, .container-fluid2,
 .container-fluid3,
-.container-fluid4 {
+.container-fluid4,
+.container-fluid5 {
   border: 5px solid red;
 }
 .row {
@@ -16,6 +17,9 @@
   border: 5px solid green;
 }
 .col-lg-1 {
+  border: 5px solid green;
+}
+.col-lg-7 {
   border: 5px solid green;
 }
 .container-fluid2 {
@@ -37,8 +41,18 @@
 }
 .row {
   border: 5px solid blue;
-  display: flex;
+  
 }
 .container-fluid2-3 {
   display: inline-flex;
+}
+.col-lg-12 {
+  text-align: center;
+}
+.container-fluid5 {
+  display: flex;
+  width: 100%;
+}
+#gift {
+  width: 100%;
 }
