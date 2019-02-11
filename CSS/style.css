@@ -1,4 +1,6 @@
-.container {
+.container-fluid, .container-fluid2,
+.container-fluid3,
+.container-fluid4 {
   border: 5px solid red;
 }
 .row {
@@ -15,4 +17,28 @@
 }
 .col-lg-1 {
   border: 5px solid green;
+}
+.container-fluid2 {
+  display: flex;
+  width: 35%;
+  background-color: pink;
+  justify-content: space-around;
+}
+.valentines {
+  text-align: center;
+}
+
+.container-fluid3 {
+  display: flex;
+  width: 65%;
+}
+#Echo {
+  display: flex;
+}
+.row {
+  border: 5px solid blue;
+  display: flex;
+}
+.container-fluid2-3 {
+  display: inline-flex;
 }
