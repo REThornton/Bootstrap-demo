@@ -1,7 +1,9 @@
 .container-fluid, .container-fluid2,
 .container-fluid3,
 .container-fluid4,
-.container-fluid5 {
+.container-fluid5,
+.container-fluid6,
+.container-fluid7 {
   border: 5px solid red;
 }
 .row {
@@ -41,7 +43,6 @@
 }
 .row {
   border: 5px solid blue;
-  
 }
 .container-fluid2-3 {
   display: inline-flex;
@@ -55,4 +56,15 @@
 }
 #gift {
   width: 100%;
+}
+
+.fluid7 {
+  display: flex;
+  border: 5px solid purple;
+}
+#amazon {
+  
+}
+#sign {
+
 }
